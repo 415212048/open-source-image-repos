@@ -11,14 +11,14 @@ This planning aims to provide developers with open source mirror services in mul
 - **Operating System**: The OS used by the open source mirror.
 - **Mirror Usage Guide**: The usage guide of the open source mirror, including configuration instructions.
 
-### 1.1 大数据
+### 1.1 Big Data
 
 | Serial Number | Open Source Project | Tool Type | Version | Cloud Marketplace Address | Adaptation Items | Operating System | CPU Architecture | Mirror Usage Guide | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Flink | Stream and Batch Unified Computing Engine | 1.13.0 | https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
 | 2 | DolphinScheduler | Task Scheduling | 3.2.2 | https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4 | GaussDB | Ubuntu 24.04 server 64bit | X86 |  |
 
-### 1.2 数据库
+### 1.2 Database
 | Serial Number | Open Source Project | Tool Type | Version | Cloud Marketplace Address | Adaptation Items | Operating System | CPU Architecture | Mirror Usage Guide | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | redis6 | In-memory Database | 6.2.7 | https://marketplace.huaweicloud.com/hidden/contents/61248ad4-be4d-4078-a918-ad59ef63a52f#productid=OFFI1111824746859552768 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
