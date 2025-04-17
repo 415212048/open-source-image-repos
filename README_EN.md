@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Images on KooGallary</h1>
   <p align="center">
-    <a href="README_ZN.md"><strong>简体中文</strong></a> | <strong>English</strong>
+    <a href="README_ZH.md"><strong>简体中文</strong></a> | <strong>English</strong>
   </p>
 </p>
 
