@@ -21,7 +21,7 @@ This planning aims to provide developers with open source mirror services in mul
 
 | Serial Number | Open Source Project | Tool Type | Version | Adaptation Items | Cloud Marketplace Address | Mirror Details |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Flink | Stream and Batch Unified Computing Engine | 1.13.0 | ECS | [KooGallaryImage](https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856) | [Details](https://github.com/HuaweiCloudDeveloper/flink-image) |
+| 1 | Flink | Stream and Batch Unified Computing Engine | 1.13.0<br>1.17.0 | ECS | [KooGallaryImage](https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856) | [Details](https://github.com/HuaweiCloudDeveloper/flink-image) |
 | 2 | DolphinScheduler | Task Scheduling | 3.2.2 | GaussDB | [KooGallaryImage](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4) |  |
 
 ### Database
