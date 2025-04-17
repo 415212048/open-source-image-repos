@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">开源镜像</h1>
   <p align="center">
-    <a href="README_EN.md"><strong>English</strong></a> | <strong>中文</strong>
+    <a href="README.md"><strong>English</strong></a> | <strong>中文</strong>
   </p>
 </p>
 
