@@ -15,8 +15,8 @@
 
 | 序号 | 开源项目 | 工具类型 | 版本 | 云商店地址 | 适配项 | 操作系统 | CPU架构 | 镜像使用指南 | 备注 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Flink | 流批一体计算引擎 | 1.13.0 | https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856	 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
-| 2 | DolphinScheduler | 任务调度 | 3.2.2 | https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4 | GaussDB | Ubuntu 24.04 server 64bit | X86 |  |
+| 1 | Flink | 流批一体计算引擎 | 1.13.0 | [云商店镜像地址](https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856)	 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
+| 2 | DolphinScheduler | 任务调度 | 3.2.2 | [云商店镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4) | GaussDB | Ubuntu 24.04 server 64bit | X86 |  |
 
 ### 1.2 数据库
 | 序号 | 开源项目 | 工具类型 | 版本 | 云商店地址 | 适配项 | 操作系统 | CPU架构 | 镜像使用指南 | 备注 |
@@ -26,8 +26,8 @@
 ### 1.3 AI
 | 序号 | 开源项目 | 工具类型 | 版本 | 云商店地址 | 适配项 | 操作系统 | CPU架构 | 镜像使用指南 | 备注 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Flair | NLP | en-ner-conll03-v0.4.pt | https://marketplace.huaweicloud.com/intl/hidden/contents/a89da69c-28f1-41ec-bd37-7b056c927389 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
-| 2 | InternLM |多模态大模型  | internlm2_5-1_8b-chat | https://marketplace.huaweicloud.com/intl/hidden/contents/a998b510-95d8-45cc-984b-8ee4fb8bd4b7	 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
+| 1 | Flair | NLP | en-ner-conll03-v0.4.pt | [云商店镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/a89da69c-28f1-41ec-bd37-7b056c927389) | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
+| 2 | InternLM |多模态大模型  | internlm2_5-1_8b-chat | [云商店镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/a998b510-95d8-45cc-984b-8ee4fb8bd4b7)	 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
 
 ## 2 场景化方案
 
