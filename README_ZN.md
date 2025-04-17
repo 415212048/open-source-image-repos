@@ -1,6 +1,5 @@
-# 开源易用性提升介绍 | [English](README.md)
 <p align="center">
-  <h1 align="center">Images on Koogallary</h1>
+  <h1 align="center">开源镜像</h1>
   <p align="center">
     <a href="README.md"><strong>English</strong></a> | <strong>中文</strong>
   </p>
