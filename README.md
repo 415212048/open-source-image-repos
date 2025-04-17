@@ -36,7 +36,8 @@ This planning aims to provide developers with open source mirror services in mul
 | 2 | InternLM | Multimodal Large Model | internlm2_5-1_8b-chat | ECS | [KooGallaryImage](https://marketplace.huaweicloud.com/intl/hidden/contents/a998b510-95d8-45cc-984b-8ee4fb8bd4b7) |  |
 
 ## Getting Help
-For more questions, you can contact us through [issue](https://github.com/HuaweiCloudDeveloper/open-source-image-repos/issues) or [Huawei Cloud Open Source Collaboration and Innovation Platform](https://developer.huaweicloud.com/programs/opensource/contributing/).
+- Submit an [issue](https://github.com/HuaweiCloudDeveloper/open-source-image-repos/issues)  
+- Contact Huawei Cloud Marketplace product suppor
 
 ## How to Contribute
 - Fork this repository and submit a merge request
