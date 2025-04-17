@@ -1,4 +1,10 @@
-# Introduction to the Enhancement of Open Source Usability | [中文](README_ZN.md)
+<p align="center">
+  <h1 align="center">Images on Koogallary</h1>
+  <p align="center">
+    <a href="README_ZN.md"><strong>简体中文</strong></a> | <strong>English</strong>
+  </p>
+</p>
+
 This project provides developers with richer, more convenient and more efficient open source resources and services through the open source mirrors in **Huawei Cloud Marketplace** and **various scenario-based solutions**. The open source mirrors in Huawei Cloud Marketplace are rich in resources, including various language components, operating systems and tool mirrors. They are simple and convenient to configure and use (with automated deployment), and various scenario-based solutions are provided to help developers make better use of open source technologies to achieve business innovation and development.
 
 ## 1 Open Source Mirrors (Open Source + Huawei Cloud)
