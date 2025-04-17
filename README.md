@@ -5,7 +5,7 @@
   </p>
 </p>
 
-This project provides developers with richer, more convenient and more efficient open source resources and services through the open source mirrors in **Huawei Cloud Marketplace** and **various scenario-based solutions**. The open source mirrors in Huawei Cloud Marketplace are rich in resources, including various language components, operating systems and tool mirrors. They are simple and convenient to configure and use (with automated deployment), and various scenario-based solutions are provided to help developers make better use of open source technologies to achieve business innovation and development.
+  This project provides developers with richer, more convenient and more efficient open source resources and services through the open source mirrors in **Huawei Cloud Marketplace** and **various scenario-based solutions**. The open source mirrors in Huawei Cloud Marketplace are rich in resources, including various language components, operating systems and tool mirrors. They are simple and convenient to configure and use (with automated deployment), and various scenario-based solutions are provided to help developers make better use of open source technologies to achieve business innovation and development.
 
 ## 1 Open Source Mirrors (Open Source + Huawei Cloud)
 This planning aims to provide developers with open source mirror services in multiple fields.
