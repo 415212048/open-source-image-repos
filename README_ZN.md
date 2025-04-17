@@ -21,7 +21,7 @@
 ### 1.2 数据库
 | 序号 | 开源项目 | 工具类型 | 版本 | 云商店地址 | 适配项 | 操作系统 | CPU架构 | 镜像使用指南 | 备注 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | redis6 | 内存数据库 | 6.2.7 | https://marketplace.huaweicloud.com/hidden/contents/61248ad4-be4d-4078-a918-ad59ef63a52f#productid=OFFI1111824746859552768 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
+| 1 | redis6 | 内存数据库 | 6.2.7 | [云商店镜像地址]（https://marketplace.huaweicloud.com/hidden/contents/61248ad4-be4d-4078-a918-ad59ef63a52f#productid=OFFI1111824746859552768） | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
 
 ### 1.3 AI
 | 序号 | 开源项目 | 工具类型 | 版本 | 云商店地址 | 适配项 | 操作系统 | CPU架构 | 镜像使用指南 | 备注 |
