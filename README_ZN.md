@@ -1,4 +1,11 @@
 # 开源易用性提升介绍 | [English](README.md)
+<p align="center">
+  <h1 align="center">Images on Koogallary</h1>
+  <p align="center">
+    <a href="README.md"><strong>English</strong></a> | <strong>中文</strong>
+  </p>
+</p>
+
 本项目通过 **华为云商店开源镜像** 以及 **多种场景化方案** 为开发者提供更丰富、便捷、高效的开源资源与服务。华为云商店开源镜像资源丰富，含多类语言组件、操作系统及工具镜像，配置与使用简单便捷（自动化部署），并提供多种场景化方案帮助开发者更好地利用开源技术达成业务创新与发展。
 
 ## 1 开源镜像（开源 + 华为云）
