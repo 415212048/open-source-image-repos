@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Images on Koogallary</h1>
+  <h1 align="center">Images on KooGallary</h1>
   <p align="center">
     <a href="README_ZN.md"><strong>简体中文</strong></a> | <strong>English</strong>
   </p>
@@ -21,7 +21,7 @@ This planning aims to provide developers with open source mirror services in mul
 
 | Serial Number | Open Source Project | Tool Type | Version | Cloud Marketplace Address | Adaptation Items | Operating System | CPU Architecture | Mirror Usage Guide | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Flink | Stream and Batch Unified Computing Engine | 1.13.0 | [KooGallaryImage](https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856) | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
+| 1 | Flink | Stream and Batch Unified Computing Engine | 1.13.0 | [KooGallaryImage](https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856) | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM | [introductions](https://github.com/HuaweiCloudDeveloper/Flink-image) |
 | 2 | DolphinScheduler | Task Scheduling | 3.2.2 | [KooGallaryImage](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4) | GaussDB | Ubuntu 24.04 server 64bit | X86 |  |
 
 ### 1.2 Database
