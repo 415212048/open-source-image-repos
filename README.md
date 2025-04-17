@@ -15,19 +15,19 @@ This planning aims to provide developers with open source mirror services in mul
 
 | Serial Number | Open Source Project | Tool Type | Version | Cloud Marketplace Address | Adaptation Items | Operating System | CPU Architecture | Mirror Usage Guide | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Flink | Stream and Batch Unified Computing Engine | 1.13.0 | https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
-| 2 | DolphinScheduler | Task Scheduling | 3.2.2 | https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4 | GaussDB | Ubuntu 24.04 server 64bit | X86 |  |
+| 1 | Flink | Stream and Batch Unified Computing Engine | 1.13.0 | [云商店镜像地址](https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856) | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
+| 2 | DolphinScheduler | Task Scheduling | 3.2.2 | [云商店镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/9f9bc006-7f3b-4038-8a12-3c271bbbfdb4) | GaussDB | Ubuntu 24.04 server 64bit | X86 |  |
 
 ### 1.2 Database
 | Serial Number | Open Source Project | Tool Type | Version | Cloud Marketplace Address | Adaptation Items | Operating System | CPU Architecture | Mirror Usage Guide | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | redis6 | In-memory Database | 6.2.7 | https://marketplace.huaweicloud.com/hidden/contents/61248ad4-be4d-4078-a918-ad59ef63a52f#productid=OFFI1111824746859552768 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
+| 1 | redis6 | In-memory Database | 6.2.7 | [云商店镜像地址](https://marketplace.huaweicloud.com/hidden/contents/61248ad4-be4d-4078-a918-ad59ef63a52f#productid=OFFI1111824746859552768) | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
 
 ### 1.3 AI
 | Serial Number | Open Source Project | Tool Type | Version | Cloud Marketplace Address | Adaptation Items | Operating System | CPU Architecture | Mirror Usage Guide | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Flair | NLP | en-ner-conll03-v0.4.pt | https://marketplace.huaweicloud.com/intl/hidden/contents/a89da69c-28f1-41ec-bd37-7b056c927389 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
-| 2 | InternLM | Multimodal Large Model | internlm2_5-1_8b-chat | https://marketplace.huaweicloud.com/intl/hidden/contents/a998b510-95d8-45cc-984b-8ee4fb8bd4b7 | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
+| 1 | Flair | NLP | en-ner-conll03-v0.4.pt | [云商店镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/a89da69c-28f1-41ec-bd37-7b056c927389) | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
+| 2 | InternLM | Multimodal Large Model | internlm2_5-1_8b-chat | [云商店镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/a998b510-95d8-45cc-984b-8ee4fb8bd4b7) | ECS | Huawei Cloud EulerOS 2.0 64bit | ARM |  |
 
 ## 2 Scenario-based Solutions
 
