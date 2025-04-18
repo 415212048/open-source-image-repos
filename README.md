@@ -37,7 +37,7 @@ This planning aims to provide developers with open source mirror services in mul
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/open-source-image-repos/issues)  
-- Contact Huawei Cloud Marketplace product suppor
+- Contact Huawei Cloud Marketplace product support
 
 ## How to Contribute
 - Fork this repository and submit a merge request
