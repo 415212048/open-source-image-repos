@@ -46,7 +46,7 @@
 ### AI
 | 序号 | 开源项目 | 工具类型 | 版本 | 适配项 | 云商店地址 | 镜像详情 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Flair | NLP | en-ner-conll03-v0.4.pt | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/a89da69c-28f1-41ec-bd37-7b056c927389)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/a89da69c-28f1-41ec-bd37-7b056c927389) | [详情](https://github.com/HuaweiCloudDeveloper/flair-image) |
+| 1 | Flair | NLP | en-ner-conll03-v0.4.pt | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/d603cf33-1c2d-4824-8082-c7b16d0045ac#productid=OFFI1121281251575148544)  <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/a89da69c-28f1-41ec-bd37-7b056c927389) | [详情](https://github.com/HuaweiCloudDeveloper/flair-image) |
 | 2 | InternLM |多模态大模型  | internlm2_5-1_8b-chat | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/91ef08ac-85b7-4092-85cb-46bef1c805ba#productid=OFFI1121281402292875264) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/a998b510-95d8-45cc-984b-8ee4fb8bd4b7) | [详情](https://github.com/HuaweiCloudDeveloper/InternLM-image) |
 | 3 | RWKV |自然语言处理  | RWKV-4-Pile-1B5-EngChn-test4-20230115.pth | ECS | [中国站镜像地址](https://marketplace.huaweicloud.com/hidden/contents/99586bca-3cb8-43c3-b086-ef355db52e67#productid=OFFI11212802359141130247) <br> [国际站镜像地址](https://marketplace.huaweicloud.com/intl/hidden/contents/ac451ac5-9ae2-40b0-b8c9-81351789b96d) | [详情](https://github.com/HuaweiCloudDeveloper/ChatRWKV-image) |
 
