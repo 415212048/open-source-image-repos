@@ -29,10 +29,24 @@ This planning aims to provide developers with open source mirror services in mul
 | 6 | Zeppelin | Data Analysis and Visualization | 0.12.0 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/253a2dc0-df54-4f08-93bb-51eaeff7097e#productid=OFFI1121280108350484480) <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/22931623-9a89-4a12-ae9e-2c4ec8ee106f) | [Details](https://github.com/HuaweiCloudDeveloper/zeppelin-image) |
 | 7 | Streamlit | Data Analysis and Application Development | 1.40.1 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/859b57e8-a9dd-431f-a724-da999b0553ea#productid=OFFI1121279984920113152) <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/ecf398b5-9b73-4665-b308-09469141b732) | [Details](https://github.com/HuaweiCloudDeveloper/streamlit-image) |
 | 8 | Temporal | Workflow Management and Task Scheduling | 1.27.2 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/425948e6-59f9-495d-a472-85db0d636efb#productid=OFFI1121280798300516352) <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/b48b6455-d967-436b-851a-115d4c7bccf2) | [Details](https://github.com/HuaweiCloudDeveloper/temporal-image) |
+| 9 | Airflow | Workflow Orchestration | 2.1 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/1fe654fa-4bc6-4386-90de-f27961f5f8cc#productid=OFFI1137281825272061952) <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/3b8c28c7-295e-493d-82ed-6c0e94a3fc8c) | [Details](https://github.com/HuaweiCloudDeveloper/airflow-image) |
+
 ### Database
 | Serial Number | Open Source Project | Tool Type | Version | Adaptation Items | Cloud Marketplace Address | Mirror Details |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | redis6 | In-memory Database | 6.2.7 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/61248ad4-be4d-4078-a918-ad59ef63a52f#productid=OFFI1111824746859552768) | [Details](https://github.com/HuaweiCloudDeveloper/redis-image)  |
+|2 | TiDB | Distributed HTAP Database | 8.5.1 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/013b7250-035b-42eb-8755-77e5eadca52b#productid=OFFI1132211362402779136) <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/5fd701f5-4063-4045-a2c5-e6e5b15a2c25)  | [Details](https://github.com/HuaweiCloudDeveloper/redis-image) |
+
+
+### Cloud Native
+| Serial Number | Open Source Project | Tool Type | Version | Adaptation Items | Cloud Marketplace Address | Mirror Details |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | seata | Distributed Middleware | 2.3.0 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/9e9217e1-5c9d-4026-96bd-b3395d0c9aa8#productid=OFFI1131118959554052096)  <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/54be2be8-4235-4217-be0a-8547baab9d2d)  | [Details](https://github.com/HuaweiCloudDeveloper/seata-image) |
+| 2 | Jaeger | Distributed Tracing | 1.68.0 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/51302d16-9ae2-4d3a-9147-efc8fd0979ac#productid=OFFI1121280360872751104)  <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/d9d761d4-f02c-4bfa-9d8d-ea347bd001d8) | [Details](https://github.com/HuaweiCloudDeveloper/jaeger-image) |
+| 3 | Prometheus | Monitoring System | 3.3.0 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/90b87595-6482-478e-a785-7a8b76c5a9e9#productid=OFFI1127509393944621056)  <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/48c73331-f084-4a64-b3f8-565f9bfd478e) | [Details](https://github.com/HuaweiCloudDeveloper/prometheus-image) |
+| 4 | MinIO | Object Storage | 20250422221226.0.0-1 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/be9aa1a6-4d97-445f-8bbe-2e1b1bf3db64#productid=OFFI1138677857956487168)  <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/ff3a26bb-ee3f-42e0-97ff-52fe163a35d6) | [Details](https://github.com/HuaweiCloudDeveloper/minio-image) |
+| 5 | NATS | Message Queue | 2.10.20 | ECS | [China Site](https://marketplace.huaweicloud.com/hidden/contents/f458f8c6-818f-4b3e-8e10-992f49e09f1e#productid=OFFI1141938411671859200)  <br> [International Site](https://marketplace.huaweicloud.com/intl/hidden/contents/8665eb08-8c32-46fa-94ae-eaf4d3c1533c) | [Details](https://github.com/HuaweiCloudDeveloper/nats-image) |
+
 
 ### AI
 | Serial Number | Open Source Project | Tool Type | Version | Adaptation Items | Cloud Marketplace Address | Mirror Details |
